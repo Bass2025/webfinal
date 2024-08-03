@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-HuangZiHeng-0.1";
 const contentToCache = [
-    "Build/0803NewHuangZIWEB.loader.js",
-    "Build/0803NewHuangZIWEB.framework.js",
-    "Build/0803NewHuangZIWEB.data",
-    "Build/0803NewHuangZIWEB.wasm",
+    "Build/0803NightWEB.loader.js",
+    "Build/0803NightWEB.framework.js",
+    "Build/0803NightWEB.data",
+    "Build/0803NightWEB.wasm",
     "TemplateData/style.css"
 
 ];
